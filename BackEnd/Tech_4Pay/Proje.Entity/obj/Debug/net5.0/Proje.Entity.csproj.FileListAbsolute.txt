@@ -1,0 +1,12 @@
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\bin\Debug\net5.0\Proje.Entity.deps.json
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\bin\Debug\net5.0\Proje.Entity.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\bin\Debug\net5.0\ref\Proje.Entity.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\bin\Debug\net5.0\Proje.Entity.pdb
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.csproj.AssemblyReference.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.AssemblyInfoInputs.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.AssemblyInfo.cs
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\ref\Proje.Entity.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Entity\obj\Debug\net5.0\Proje.Entity.pdb

@@ -1,0 +1,15 @@
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\Proje.Dal.deps.json
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\Proje.Dal.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\ref\Proje.Dal.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\Proje.Dal.pdb
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\Proje.Entity.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\bin\Debug\net5.0\Proje.Entity.pdb
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.csproj.AssemblyReference.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.AssemblyInfoInputs.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.AssemblyInfo.cs
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.csproj.CopyComplete
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\ref\Proje.Dal.dll
+C:\Users\furkan\source\repos\Tech_4Pay\Proje.Dal\obj\Debug\net5.0\Proje.Dal.pdb
